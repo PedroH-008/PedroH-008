@@ -6,7 +6,7 @@ Desenvolvedor **Front-End** & **Back-End** apaixonado por criar experiências di
 
 ## Sobre Mim
 
-* Sou entusiasta de tecnologia com foco em full stack.
+* Sou entusiasta de tecnologia tentando descobrir meu foco.
 * Gosto de trabalhar em todo o ciclo de desenvolvimento: da interface ao back-end.
 * Meu objetivo é transformar ideias em produtos funcionais, eficientes e elegantes.
 
