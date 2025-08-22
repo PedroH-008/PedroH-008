@@ -1,24 +1,57 @@
-# Welcome!
+# Olá, eu sou o Pedro Henrique Ferreira Feitosa 👋
 
- 
+Desenvolvedor **Front-End** & **Back-End** apaixonado por criar experiências digitais incríveis e soluções robustas.
 
-## I'm Pedro Henrique!
+---
 
- 
+## Sobre Mim
 
-:computer: I'm Front-End and Back-End Developer!
+* Sou entusiasta de tecnologia com foco em full stack.
+* Gosto de trabalhar em todo o ciclo de desenvolvimento: da interface ao back-end.
+* Meu objetivo é transformar ideias em produtos funcionais, eficientes e elegantes.
 
-:house_with_garden: I’m from Brazil.
+---
 
-:books: I’m currently learning everything.
+## Tecnologias
 
- 
+| Front-End | Back-End        | Banco de Dados | Ferramentas & Outros |
+| --------- | --------------- | -------------- | -------------------- |
+| HTML, CSS | Python, PHP, C# | MySQL          | Git, Docker, AWS     |
 
-## About me
+---
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=(https://github.com/PedroH-008))]((https://github.com/PedroH-008))
+## Experiência
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/pedro-henrique-ferreira-feitosa-37a72b354))(https://www.linkedin.com/in/pedro-henrique-ferreira-feitosa-37a72b354)
+**Iniciação Científica**
 
-[![PedroH-008 GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroH-008)](https://github.com/PedroH-008/github-readme-stats)
+* Participação em pesquisa científica
 
+  * Pesquisa relacionada à **segurança mobile** usando **Inteligência Artificial** com o intuito de combater fake news.
+  * Atuação em análise de artigos para dar suporte ao desenvolvimento de um artigo acadêmico sobre estrutura IA com RAG.
+
+---
+
+## Educação
+
+* **Graduação**
+  *Bacharel em Ciência da Computação, Estácio de Sá, 2025*
+* **Curso relevante**
+  *Defesa de Rede, Cisco Academy, 2025*
+* **Curso relevante**
+  *Arquitetura de Computadores, Cisco Academy, 2025*
+
+---
+
+## Contato
+
+* **LinkedIn**: [Meu Perfil](https://www.linkedin.com/in/pedro-henrique-ferreira-feitosa-37a72b354)
+* **GitHub**: [PedroH-008](https://github.com/PedroH-008)
+* **E-mail**: [pedrofeitosa008123@gmail.com](mailto:pedrofeitosa008123@gmail.com)
+
+---
+
+## Objetivos
+
+* Aprimorar minhas habilidades em **HTML, Python, PHP, CSS e C#**.
+* Participar de projetos de impacto que unam design e performance.
+* Expandir conhecimentos em **Desenvolvimento Web, Banco de Dados e Back-End**.
