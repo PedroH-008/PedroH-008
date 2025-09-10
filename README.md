@@ -52,6 +52,6 @@ Desenvolvedor **Front-End** & **Back-End** apaixonado por criar experiências di
 
 ## Objetivos
 
-* Aprimorar minhas habilidades em **HTML, Python, PHP, CSS e C#**.
+* Aprimorar minhas habilidades em **HTML, Python, JavaScript, CSS e C#**.
 * Participar de projetos de impacto que unam design e performance.
 * Expandir conhecimentos em **Desenvolvimento Web, Banco de Dados e Back-End**.
