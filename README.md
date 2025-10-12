@@ -14,9 +14,9 @@ Desenvolvedor **Front-End** & **Back-End** apaixonado por criar experiências di
 
 ## Tecnologias
 
-| Front-End | Back-End                    | Banco de Dados    | Ferramentas & Outros |
-| --------- | --------------------------- | ------------------| -------------------- |
-| HTML, CSS | Python, PHP, C#, JavaScript | MySQL, NoSQL, SQL | Git, Docker, AWS     |
+| Front-End | Back-End                    | Banco de Dados    | Ferramentas & Outros |  Versionamento  |
+| --------- | --------------------------- | ------------------| -------------------- | --------------- |
+| HTML, CSS | Python, PHP, C#, JavaScript | MySQL, NoSQL, SQL | Docker, AWS          | Git, GitHub
 
 ---
 
