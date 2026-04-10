@@ -1,57 +1,119 @@
-# Olá, eu sou o Pedro Henrique Ferreira Feitosa 👋
+# 👋 Olá, eu sou o Pedro Henrique
 
-Desenvolvedor **Front-End** & **Back-End** apaixonado por criar experiências digitais incríveis e soluções robustas.
+Desenvolvedor **Full Stack** focado em construir aplicações completas — do front ao deploy em nuvem.
 
----
-
-## Sobre Mim
-
-* Sou entusiasta de tecnologia tentando descobrir meu foco.
-* Gosto de trabalhar em todo o ciclo de desenvolvimento: da interface ao back-end.
-* Meu objetivo é transformar ideias em produtos funcionais, eficientes e elegantes.
+Atualmente explorando diferentes áreas da tecnologia enquanto aprofundo meus conhecimentos em **backend, cloud e arquitetura de sistemas**.
 
 ---
 
-## Tecnologias
+## 🚀 Sobre mim
 
-| Front-End | Back-End                    | Banco de Dados    | Ferramentas & Outros |  Versionamento  |
-| --------- | --------------------------- | ------------------| -------------------- | --------------- |
-| HTML, CSS | Python, PHP, C#, JavaScript | MySQL, NoSQL, SQL | Docker, AWS          | Git, GitHub
-
----
-
-## Experiência
-
-**Iniciação Científica**
-
-* Participação em pesquisa científica
-
-  * Pesquisa relacionada à **segurança mobile** usando **Inteligência Artificial** com o intuito de combater fake news.
-  * Atuação em análise de artigos para dar suporte ao desenvolvimento de um artigo acadêmico sobre estrutura IA com RAG.
+- 💻 Desenvolvo aplicações completas (frontend + backend + cloud)
+- ☁️ Experiência prática com arquitetura **serverless na AWS**
+- 🔐 Interesse em **segurança, APIs e sistemas distribuídos**
+- 🧠 Participação em pesquisa com **IA aplicada à segurança mobile (fake news)**
+- 📈 Buscando evoluir rapidamente com projetos reais e desafios práticos
 
 ---
 
-## Educação
+## 🛠️ Tecnologias e Ferramentas
 
-* **Graduação**
-  *Bacharel em Ciência da Computação, Estácio de Sá, 2025*
-* **Curso relevante**
-  *Defesa de Rede, Cisco Academy, 2025*
-* **Curso relevante**
-  *Arquitetura de Computadores, Cisco Academy, 2025*
+### 💻 Front-End
+- HTML, CSS, JavaScript
+- React Native
+- React
+
+### ⚙️ Back-End
+- Python
+- TypeScript
+- Node.js
+
+### ☁️ Cloud & Infraestrutura
+- AWS (Lambda, API Gateway, DynamoDB, Cognito)
+- Arquitetura Serverless
+- Docker
+
+### 🗄️ Banco de Dados
+- MySQL
+- DynamoDB (NoSQL)
+- SQL e modelagem de dados
+
+### 🔧 Ferramentas
+- Git & GitHub
+- APIs REST
+- JWT (autenticação)
 
 ---
 
-## Contato
+## 📂 Projetos em Destaque
 
-* **LinkedIn**: [Meu Perfil](https://www.linkedin.com/in/pedro-henrique-ferreira-feitosa-37a72b354)
-* **GitHub**: [PedroH-008](https://github.com/PedroH-008)
-* **E-mail**: [pedrofeitosa008123@gmail.com](mailto:pedrofeitosa008123@gmail.com)
+### 📱 App de Gestão Financeira (Full Stack + Cloud)
+Aplicação mobile completa desenvolvida com foco em arquitetura real de produção.
+
+**Funcionalidades:**
+- Controle de receitas e despesas
+- Dashboard financeiro
+- Autenticação de usuários
+- Categorização de gastos
+
+**Arquitetura:**
+- React Native (mobile)
+- AWS Lambda (backend)
+- API Gateway (roteamento)
+- DynamoDB (banco NoSQL)
+- Cognito (autenticação)
+
+🔗 https://github.com/PedroH-008/financeiro-app
 
 ---
 
-## Objetivos
+### 🔐 Estudos em Segurança e SSRF
+- Estudo prático sobre vulnerabilidades como **SSRF**
+- Análise de comportamento de APIs e exploração controlada
+- Foco em aprendizado ofensivo para melhorar segurança defensiva
 
-* Aprimorar minhas habilidades em **HTML, Python, JavaScript, CSS e C#**.
-* Participar de projetos de impacto que unam design e performance.
-* Expandir conhecimentos em **Desenvolvimento Web, Banco de Dados e Back-End**.
+---
+
+### 🧠 Pesquisa com IA (Iniciação Científica)
+- Aplicação de **Inteligência Artificial para detecção de fake news**
+- Estudo de arquitetura baseada em **RAG (Retrieval-Augmented Generation)**
+- Análise de artigos científicos e apoio na construção de pesquisa acadêmica
+
+---
+
+## 🎓 Formação
+
+🎓 **Bacharelado em Ciência da Computação**  
+Estácio de Sá — 2025
+
+📚 **Cisco Networking Academy**
+- Defesa de Rede
+- Arquitetura de Computadores
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir como desenvolvedor **Full Stack**
+- Aprofundar conhecimentos em **backend e arquitetura de sistemas**
+- Trabalhar com **cloud e sistemas escaláveis**
+- Participar de projetos que gerem impacto real
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/pedro-henrique-ferreira-feitosa-37a72b354
+
+- 💻 GitHub:  
+  https://github.com/PedroH-008
+
+- 📧 Email:  
+  pedrofeitosa008123@gmail.com
+
+---
+
+## ⚡ Curiosidade
+
+Gosto de aprender na prática — criando projetos completos, errando, ajustando e entendendo como sistemas funcionam de verdade.
